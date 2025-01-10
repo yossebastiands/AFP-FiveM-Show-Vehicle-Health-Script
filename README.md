@@ -9,6 +9,10 @@ A very simple script just to show vehicle healths.
 **How To Use**
 - Just use command: /car_showstats
 
+**How to Install**
+- Just drop the folder into your resource folder of your server
+- Make sure that this folder is ensured
+
 **Reach me out?**
 - Support me at: patreon.com/ApolloFlightProgram
 - If you are an aviation enthusiast, you may join our discord here: https://discord.gg/BrXbYWKvrM
